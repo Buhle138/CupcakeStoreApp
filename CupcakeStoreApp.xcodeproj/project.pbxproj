@@ -13,6 +13,7 @@
 		9455344A2C25AB0700C99A45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 945534492C25AB0700C99A45 /* Preview Assets.xcassets */; };
 		945534512C25AC2900C99A45 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945534502C25AC2900C99A45 /* Order.swift */; };
 		945534532C25B17B00C99A45 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945534522C25B17B00C99A45 /* AddressView.swift */; };
+		945534552C25B4FC00C99A45 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945534542C25B4FC00C99A45 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		945534492C25AB0700C99A45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		945534502C25AC2900C99A45 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		945534522C25B17B00C99A45 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		945534542C25B4FC00C99A45 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 			children = (
 				945534522C25B17B00C99A45 /* AddressView.swift */,
 				945534502C25AC2900C99A45 /* Order.swift */,
+				945534542C25B4FC00C99A45 /* CheckoutView.swift */,
 				945534412C25AB0500C99A45 /* CupcakeStoreApp */,
 				945534402C25AB0500C99A45 /* Products */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				945534512C25AC2900C99A45 /* Order.swift in Sources */,
 				945534532C25B17B00C99A45 /* AddressView.swift in Sources */,
+				945534552C25B4FC00C99A45 /* CheckoutView.swift in Sources */,
 				945534452C25AB0500C99A45 /* ContentView.swift in Sources */,
 				945534432C25AB0500C99A45 /* CupcakeStoreAppApp.swift in Sources */,
 			);
