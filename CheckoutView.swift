@@ -41,7 +41,7 @@ struct CheckoutView: View {
             }
         .navigationTitle("Checkout")
         .navigationBarTitleDisplayMode(.inline)
-        .alert("Thank you!", isPresented: $showingConfirmation){
+        .alert("Thank yous!", isPresented: $showingConfirmation){
             Button("OK"){}
         }message: {
             Text(confirmationMessage)
